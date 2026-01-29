@@ -337,3 +337,8 @@
     transition-duration: 0.01ms !important;
   }
 }
+
+[class*="lovable"],
+iframe[src*="lovable"] {
+  display: none !important;
+}
